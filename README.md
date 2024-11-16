@@ -11,9 +11,22 @@ Working as a Histology scientist I learnt about the importance of data protectio
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Connect FTP, SMB, Telnet, Rsync and RDP anonymously.  | <a href="https://google.com">Detection Lab</a>|
+| Use Nmap to identify open ports. | <a href="https://google.com">Detection Lab</a>|
+| Connect to a MongoDB server.   | SOC Automation Lab|
+
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Web exploitation techniques such as SQL injection, Server Side Template Injection, Remote File Inclusion and how to use Web/Reverse Shells. | <a href="https://google.com">Detection Lab</a>|
+| Login to Jenkins and upload a Groovy Shell Script. | <a href="https://google.com">Detection Lab</a>|
+| Upload files to an S3 Bucket.       | SOC Automation Lab|
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Exploit XXE, IDOR, Log4j and perform cookie manipulation.      | <a href="https://google.com">Detection Lab</a>|
+| Exploit binary path hijacking and sudo permissions for privilege escalation. | <a href="https://google.com">Detection Lab</a>|
+| basics of Brute Forcing        | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -50,5 +63,5 @@ Working as a Histology scientist I learnt about the importance of data protectio
 </div>
 
 ## Projects
-- <a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3399514">TRY HACK ME PROJECT/ ROOM COMPLETED</a>
+- <a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3399514">TRY HACK ME PROJECT/ ROOM COMPLETED</a> (click on badge to see rooms completed)
 - SOC Automation Project
