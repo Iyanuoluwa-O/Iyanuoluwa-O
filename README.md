@@ -1,13 +1,10 @@
 # Hello, I'm IYANUOLUWA
-<a href="www.linkedin.com/in/iyanuoluwa-o"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/iyanuoluwa-o"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
-[Brief Introduction]
-
-I am a Biomedical science graduate wanting to make a career switch into the ever growing field of cyber security, I have a profound intrest in cybersecurity and a decication to problem solving
-
+I am a Biomedical science graduate wanting to make a career switch into the ever growing field of cyber security, I have a profound intrest in cybersecurity and a dedication to problem solving.
 
 ## Objective
-Working as a Histology scientist I learnt about the importance of data protection and the protection of client information, PHI and PII, this initialtes my intrest in cybersecurity, doing more reserch into the field I learnt how about how rewarding and challenging the field could be and this grew my passion for cyber security. I am now eager to transition into the field, specifically aiming to join a Penetration testing team or a security operation center team (SOC)
+Working as a Histology scientist I learnt about the importance of data protection and the protection of client information, PHI and PII, this initialtes my intrest in cybersecurity, doing more reserch into the field I learnt how about how rewarding and challenging the field could be and this grew my passion for cyber security. I am now eager to transition into the field, specifically aiming to join a Penetration testing team or a security operation center team (SOC).
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -48,12 +45,10 @@ Working as a Histology scientist I learnt about the importance of data protectio
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3399514">TRY HACK ME PROJECT/ ROOM COMPLETED</a>
 - SOC Automation Project
