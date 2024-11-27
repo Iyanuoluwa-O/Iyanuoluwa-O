@@ -13,7 +13,7 @@ Working as a Histology scientist I learnt about the importance of data protectio
 |-----------------------------------------------|----------------------------|
 | Documentation of Ethical Hacking, Project Creator
 ● Gained ethical hacking skills including the art of exploiting vulnerability and insecure functions
-● Further developed report writing skills and documented vulnerabilities found.  | <a href="https://google.com">Detection Lab</a>|
+● Further developed report writing skills and documented vulnerabilities found.  | <a href="https://github.com/Iyanuoluwa-O/iyanuoluwa-Ogunade/blob/4e195d5d1d2fd9c2e56deaaa302e214325a7432f/README.md ">Pentest Report</a>|
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -25,7 +25,7 @@ Working as a Histology scientist I learnt about the importance of data protectio
 |-----------------------------------------------|----------------------------|
 | Try Hack Me - Cybersecurity Information, Participant
 ● Completed 30+ courses, gaining experience in offensive and defensive security techniques and tools
-● Gained knowledge on authentic bypass, file inclusion, subdomain enumeration and NMAP tools | <a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3399514">Detection Lab</a>|
+● Gained knowledge on authentic bypass, file inclusion, subdomain enumeration and NMAP tools | <a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3399514">Try Hack Me</a>|
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -33,7 +33,7 @@ Working as a Histology scientist I learnt about the importance of data protectio
 ● Acquired foundational knowledge in penetration testing techniques, including vulnerability
 scanning, exploitation, and post-exploitation tasks
 ● Developed practical skills by using various tools including NMAP, Netcat, and Burp Suite to
-identify and exploit system vulnerabilities in a controlled environment| <a href="https://app.hackthebox.com/starting-point">Detection Lab</a>|
+identify and exploit system vulnerabilities in a controlled environment| <a href="https://app.hackthebox.com/starting-point">Hack The Box</a>|
 
 
 ## Tools
@@ -54,7 +54,6 @@ identify and exploit system vulnerabilities in a controlled environment| <a href
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
