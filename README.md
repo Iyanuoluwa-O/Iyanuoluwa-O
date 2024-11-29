@@ -1,11 +1,10 @@
 # Hello, I'm IYANUOLUWA
-<a href="www.linkedin.com/in/iyanuoluwa-o"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
 I am dedicated and quick learner transitioning into Cybersecurity, with strong skills in risk management and problem-solving
 
-
 ## Objective
 Working as a Histology scientist I learnt about the importance of data protection and the protection of client information, PHI and PII, this initialtes my intrest in cybersecurity, doing more reserch into the field I learnt how about how rewarding and challenging the field could be and this grew my passion for cyber security. I am now eager to transition into the field.
+
 ## Skills and Projects
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
